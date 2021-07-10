@@ -1,0 +1,20 @@
+{
+    "cars": [
+        {
+            "id": 1,
+            "make": "Nissan",
+            "model": "Skyline GT-R V-Spec",
+            "year": 1993,
+            "perfIndex": 620,
+            "cost": 85000
+        },
+        {
+            "id": 2,
+            "make": "Nissan",
+            "model": "Skyline GT-R V-Spec II",
+            "year": 2002,
+            "perfIndex": 691,
+            "cost": 63000
+        }
+    ]
+}

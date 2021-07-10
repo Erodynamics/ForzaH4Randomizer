@@ -21,23 +21,5 @@ namespace sdds {
 		int getTrackConditions();
 		int getTime();
 	};
-
-	class Cars {
-		// Empty State is defined as m_carClass == NULL.
-		char* m_model;
-		char* m_carClass;
-		bool m_homologated;
-		void setEmptyCars();
-
-	public:
-		Cars();
-		Cars(char* model, char* carClass, bool homologated);
-		Cars(char* carClass, bool homologated);
-		~Cars();
-		char* getModel();
-		char* getCarClass();
-		bool isHomologated();
-		operator bool()const;
-	};
 }
 #endif // _RANDOMIZER_TRACK_H
