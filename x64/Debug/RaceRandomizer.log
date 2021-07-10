@@ -1,7 +1,0 @@
-﻿  Car.cpp
-  RaceRandomizer.cpp
-  Generating Code...
-MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
-    Hint on symbols that are defined and could potentially match:
-      "int __cdecl sdds::main(void)" (?main@sdds@@YAHXZ)
-C:\Users\Stevia\source\repos\ForzaH4Randomizer\x64\Debug\RaceRandomizer.exe : fatal error LNK1120: 1 unresolved externals
